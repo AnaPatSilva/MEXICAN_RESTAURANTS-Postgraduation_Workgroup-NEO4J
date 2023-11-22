@@ -1,5 +1,5 @@
 ![Image](https://github.com/AnaPatSilva/Mexican_Restaurants-Postgraduate_workgroup-NEO4J/blob/main/meta.png)
-# Mexican_Restaurants (Postgraduation Workgroup)
+# Mexican Restaurants (Postgraduation Workgroup)
 # NEO4J
 
 ## My Intro
