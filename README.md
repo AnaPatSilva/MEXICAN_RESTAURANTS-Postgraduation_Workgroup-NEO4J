@@ -1,6 +1,6 @@
 ![Image](https://github.com/AnaPatSilva/Mexican_Restaurants-Postgraduate_workgroup-NEO4J/blob/main/meta.png)
-# Mexican Restaurants (Postgraduation Workgroup)
-# NEO4J
+# MEXICAN RESTAURANTS (Postgraduation Workgroup)
+# _Neo4J_
 
 ## My Intro
 During the postgraduate course, we talked about database technologies and for non-relational databases, we had to do workgroup using Neo4J.
